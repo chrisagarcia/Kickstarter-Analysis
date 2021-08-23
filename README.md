@@ -1,12 +1,14 @@
 # Kickstarter Analysis
 
-Louise created a Kickstarter for her play, *Fever*, that met its funding goal in a short 
+### Introduction
+  Louise created a Kickstarter for her play, *Fever*, that met its funding goal in a short 
 time. Now she wants an analysis of some relevant data to explain some of the trends that 
 might have played a part in that success. An insight into these trends could allow her to 
 replicate her experience in a new venture. For this analysis, I proccessed a dataset of 
 just over 4,000 Kickstarter projects. My goal was to extract a few common variables of 
 successful and unsuccessful campaigns.
 
+### Methods of Analysis and Challenges
 In order to best advise Louise, I analyzed funding trends with regard to each
 project's launch date, looking closely at the success rates of each month independent
 of the year. I also tried to uncover funding trends as a function of the projects goal. 
@@ -21,6 +23,7 @@ other crowdfunding sites like GoFundMe would work just as well.
 
 Now, onto some trends derived from the Kickstarter data.
 
+### Results and Conclusions
 This line chart, titled "Theater Outcomes Based on Launch Date",
 <img src="https://github.com/chrisagarcia/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png" width="800" height="400" />
 shows a clear spike in successful theater campaigns launched at the border of spring and summer.
@@ -55,6 +58,7 @@ good insight into Louise's successful $10,000 campaign. Since it's clearly outsi
 goal amounts that seem to be more easily funded, she is clearly doing something right promoting
 her play.
 
+### Limitations and Solutions
 This analysis will provide useful general knowledge of kickstarter play campaigns for Louise's
 retrospective, and presumed future campaign planning. However, their remain some limitations. 
 For one, I would say that while the dataset is large enough to see soem trends in these projects, 
