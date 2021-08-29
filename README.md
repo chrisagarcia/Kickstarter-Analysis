@@ -25,7 +25,7 @@ Now, onto some trends derived from the Kickstarter data.
 
 ### Results and Conclusions
 This line chart, titled "Theater Outcomes Based on Launch Date",
-<img src="https://github.com/chrisagarcia/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png" width="800" height="400" />
+![Theater Outcomes Based on Launch Date](https://github.com/chrisagarcia/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 shows a clear spike in successful theater campaigns launched at the border of spring and summer.
 It is worth mentioning that this graph shows the number of successful(blue), failed(orange), 
 and canceled(grey) campaigns for each month *independent* of the year. However, if you filter
@@ -39,7 +39,7 @@ to holiday activities, although this is purely conjecture as the data do not con
 information that could confirm this.
 
 In this chart, "Kickstarter Outcomes for Goal Ranges",
-<img src="https://github.com/chrisagarcia/Kickstarter-Analysis/blob/main/Outcomes_Goal_Ranges.png" width="800" height="400" />
+![Kickstarter outcomes for Goal Ranges](https://github.com/chrisagarcia/Kickstarter-Analysis/blob/main/Outcomes_Goal_Ranges.png)
 I show that, within the dataset, the success of a Kickstarter campaign for a play correlates
 to its goal amount. Assuming that this data is representative of the whole, it can be said that 
 a new Kickstarter with a lower funding goal is more likely to be successful than one with a
